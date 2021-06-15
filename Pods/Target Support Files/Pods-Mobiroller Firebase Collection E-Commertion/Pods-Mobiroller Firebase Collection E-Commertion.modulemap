@@ -1,0 +1,6 @@
+framework module Pods_Mobiroller_Firebase_Collection_E_Commertion {
+  umbrella header "Pods-Mobiroller Firebase Collection E-Commertion-umbrella.h"
+
+  export *
+  module * { export * }
+}

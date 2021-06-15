@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Mobiroller_Firebase_Collection_E_Commertion : NSObject
+@end
+@implementation PodsDummy_Pods_Mobiroller_Firebase_Collection_E_Commertion
+@end
